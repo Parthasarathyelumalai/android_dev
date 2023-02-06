@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Recyclerview</string>
+    <string name="title">EmployeeDetails</string>
+    <string name="name">Name</string>
+    <string name="first_name">First Name</string>
+    <string name="sur_name">Last Name</string>
+    <string name="email_id">Email id</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="submit">Submit</string>
+    <string name="filter">Filter</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="empty_message_name">Enter the first name</string>
+    <string name="empty_message_last_name">Enter the valid last name</string>
+    <string name="empty_message_password">Enter the password</string>
+    <string name="empty_message_phone_number">Enter the phone number</string>
+    <string name="empty_message_email">Enter the email id </string>
+    <string name="text_validation_error_first_name">userName contains only alphabets</string>
+    <string name="text_validation_error_last_name">userName contains only alphabets</string>
+    <string name="text_validation_error_phone_number">phone number contains only numbers start with(6–9)</string>
+    <string name="text_validation_error_email">Invalid email id</string>
+    <string name="text_validation_error_password">Enter the valid password with contain atleast 1 uppercase,1 lowercase,1 special character and 1 number</string>
+    <string name="text_validation_error_confirm_password">mismatch password</string>
+    <string name="employee_details">Employee Details</string>
+    <string name="show_result">show result</string>
+</resources>
